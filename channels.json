@@ -1,17 +1,5 @@
 [
     {
-        "channel_id": "t20eng",
-        "channel_name": "T20 World Cup English",
-        "channel_genre": "Sports",
-        "channel_logo": "https:\/\/twenty20wiki.com\/wp-content\/uploads\/2023\/12\/Mens-T20-world-cup-2024-logo.jpg"
-    },
-    {
-        "channel_id": "t20hin",
-        "channel_name": "T20 World Cup Hindi",
-        "channel_genre": "Sports",
-        "channel_logo": "https:\/\/twenty20wiki.com\/wp-content\/uploads\/2023\/12\/Mens-T20-world-cup-2024-logo.jpg"
-    },
-    {
         "channel_id": "840",
         "channel_name": "Shirdi Sai Baba",
         "channel_genre": "Devotional",
