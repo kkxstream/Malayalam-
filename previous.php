@@ -1,7 +1,7 @@
 <?php
 //epg data
 
-$json_url= "https://apstv.000webhostapp.com/tataplay/epg2.php?id=$id";
+$json_url= "https://kkxstream.rf.gd/epg2.php?id=$id";
 
 // Fetch the JSON data
 $json_content = file_get_contents($json_url);
