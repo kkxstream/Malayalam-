@@ -88,7 +88,7 @@ $epgn_description = $epgn['description'];
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     
-    <title><?php echo $title . " - " . $year; ?> - CineMix</title>
+    <title><?php echo $title . " - " . $year; ?> - KK XstreamPlay</title>
     <style>
     body{
        background: rgba(14,19,29,0.95);
